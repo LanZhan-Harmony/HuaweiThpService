@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64EC" />
+  </Configurations>
+  <Project Path="HuaweiThpService/HuaweiThpService.vcxproj" Id="1c91600e-9643-4a5f-a524-bd0777dcde2d">
+  </Project>
+</Solution>

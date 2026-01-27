@@ -1,0 +1,7 @@
+.vs
+.vscode
+.idea
+ARM64
+ARM64EC
+bin
+obj
