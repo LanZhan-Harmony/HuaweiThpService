@@ -1,5 +1,10 @@
 <h1 align="center">HuaweiThpService</h1>
 
+> [!WARNING]
+> **本项目已过时，不再推荐使用。**
+>
+> 建议改用 [EGoTouchRev](https://github.com/awarson2233/EGoTouchRev)。该项目提供纯原生 Arm64 适配，并带来更好的性能表现。
+
 ## 📋 项目简介
 
 本项目将华为 MateBook E Go 系列触摸服务适配为 Arm64EC 架构。
